@@ -22,12 +22,12 @@ This repository contains a simple simulation of an M/M/1 queue system. It uses a
 
    ```bash
    git clone https://github.com/yourusername/mm1-queue-simulation.git
-   cd mm1-queue-simulation```
+   cd mm1-queue-simulation
    
 2. Install the required libraries:
 
    ```bash
-   pip install matplotlib```
+   pip install matplotlib
    
 ## Usage
 
